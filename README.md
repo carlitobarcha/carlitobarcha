@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **C++, HTML, Java, Python, Adobe Photoshop, Vercel, Adobe illustrater, Figma, Canva, Git, Gitlab, Git desktop, Tailwind Css, MUi, AntDesign, Bootstrap**
 
 - 👯 I’m looking to collaborate on **Front-end and design projects**
+  
 
 - 🤝 I’m looking for help with **C++**
 
