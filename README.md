@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khalid Abbas</h1>
+<h1 align="center">Hi 👋, I'm Khalid Abbas Barcha</h1>
 <h3 align="center">An Aspiring developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlitobarcha&label=Profile%20views&color=0e75b6&style=flat" alt="carlitobarcha" /> </p>
