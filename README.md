@@ -10,12 +10,12 @@
 
 🚀 What I Do:
 
--Responsive Web Design with HTML5, CSS3, and JavaScript.
--UI/UX Design using Figma to create visually appealing and user-centered interfaces.
--Front-End Frameworks: Proficient in Bootstrap and Tailwind CSS.
--React Development: Building dynamic single-page applications.
--Figma: Skilled in creating and customizing Figma websites.
--programming language i use : C++
+-Responsive Web Design with HTML5, CSS3, and JavaScript. <br/>
+-UI/UX Design using Figma to create visually appealing and user-centered interfaces.<br/>
+-Front-End Frameworks: Proficient in Bootstrap and Tailwind CSS. <br/>
+-React Development: Building dynamic single-page applications. <br/>
+-Figma: Skilled in creating and customizing Figma websites. <br/>
+-programming language i use : C++ <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khalid-abbas-942354293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khalid-abbas-942354293/" height="30" width="40" /></a>
