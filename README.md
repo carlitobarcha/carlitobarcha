@@ -5,20 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlitobarcha" alt="carlitobarcha" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end Development, HTML, Java, Python, Adobe Photoshop, Vercel, Adobe illustrater, Figma, Canva, Git, Gitlab, Git desktop, Tailwind Css, MUi, AntDesign, Bootstrap**
+- 🔭 I'm a passionate front-end developer with a strong command of HTML, CSS, JavaScript, and modern frameworks like Bootstrap, Tailwind, and React. My expertise extends to Node.js and all key front-end concepts, i do C++ programming also ,  enabling me to build responsive, user-friendly websites and applications.
 
-- 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **Front-end and design projects**
+🚀 What I Do:
 
-- 🤝 I’m looking for help with **C++**
-
-- 👨‍💻 All of my projects are available at [https://github.com/carlitobarcha/](https://github.com/carlitobarcha/)
-
-- 💬 Ask me about **Adobe Photoshop, illustrater, Canva, Figma**
-
-- 📫 How to reach me **khalidabbas2424@gmail.com**
-
+-Responsive Web Design with HTML5, CSS3, and JavaScript.
+-UI/UX Design using Figma to create visually appealing and user-centered interfaces.
+-Front-End Frameworks: Proficient in Bootstrap and Tailwind CSS.
+-React Development: Building dynamic single-page applications.
+-Figma: Skilled in creating and customizing Figma websites.
+-programming language i use : C++
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khalid-abbas-942354293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khalid-abbas-942354293/" height="30" width="40" /></a>
